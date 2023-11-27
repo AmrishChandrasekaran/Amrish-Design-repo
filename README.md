@@ -10,3 +10,7 @@ Green Habit is an innovative mobile app designed to empower individuals to lead 
 - **Community Hub**: Connect with like-minded individuals and share your eco-friendly journey.
 - **Progress Tracking**: Monitor and celebrate your progress in reducing plastic waste.
 - **Eco-Tips & Insights**: Access valuable tips and insights for sustainable living.
+
+  ## screens
+  ![Dashboard (6)-portrait (1)](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/385f5b2d-e4c1-456a-a1a6-8723aac78a07)
+
