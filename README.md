@@ -16,4 +16,4 @@ Green Habit is an innovative mobile app designed to empower individuals to lead 
 
 ## Prototypes
 
-- Explore interactive prototypes on
+- Explore interactive prototypes on  [Figma] (https://www.figma.com/proto/SHLLx6mBaehoDgq3DrRBoM/Green-habit-prototype?node-id=1-22310&starting-point-node-id=1%3A22407&mode=design&t=X3NucQ028rGAeMqc-1)
