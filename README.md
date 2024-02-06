@@ -1,4 +1,4 @@
- #![Green Habit Logo](/![![Uploading Banner (5).png…]()](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/d3fec48d-d82a-4974-968c-598675702518))
+ #![Green Habit Logo](/!![Banner (5)](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/4c28d8da-f49f-4a61-84cc-37a0c8da4b8f))
 # Green Habit - A User-Centered Eco-Friendly App
 ## Overview
 
