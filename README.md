@@ -5,13 +5,18 @@
 Green Habit is an innovative mobile app designed to empower individuals to lead a sustainable lifestyle and reduce single-use plastic waste. This repository contains the UI/UX design files, assets, and documentation for the Green Habit project.
 ## Key Features
 
-- **Eco-Friendly Product Directory**: Explore a curated selection of sustainable products.
+- **User-Friendly Interface**: Enjoy a user-centric design with intuitive navigation and minimalistic aesthetics.
+- **Automated Tracking**: Seamlessly track eco-friendly habits with automated features like barcode scanning.
 - **Community Hub**: Connect with like-minded individuals and share your eco-friendly journey.
-- **Progress Tracking**: Monitor and celebrate your progress in reducing plastic waste.
-- **Eco-Tips & Insights**: Access valuable tips and insights for sustainable living.
-
+- **Chatbot**: Interact with a chatbot for register eco-partner stores.
+- **Reward System:**: Earn virtual rewards for completing challenges and achieving sustainable goals.
+- **Notification Center**: Receive notifications for completed challenges, rewards, and daily reminders to stay on track.
+- 
   ## screens
- ![Onboarding screen - 1-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/ecd0ec0d-de5b-43fd-bea5-52753656ce41) ![Dashboard (6)-portrait (1)](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/385f5b2d-e4c1-456a-a1a6-8723aac78a07)   ![user profile-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/7c8c2a78-a55c-4d3c-bd39-1c3b2616072b)  ![Eco-tips-portrait 3](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/c8b61f7a-f76b-4eb6-8fc7-8161a0bf3bc0)  
+ ![Splash screen-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/13c7c708-cbd3-4672-a1e7-e4b1709db565)
+![Onboarding screen - 1 (1)-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/c2b4a3f5-bfac-477f-8cb9-ac5bb43eb9c4)
+![Home screen-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/9016f5dd-d186-4c6a-9a9c-689b585810da)
+![Tracker-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/6290c8d6-bbe2-4361-8349-d4d197938f5f)
 
 ## Prototypes
 
