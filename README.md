@@ -13,7 +13,7 @@ Green Habit is an innovative mobile app designed to empower individuals to lead 
 - **Notification Center**: Receive notifications for completed challenges, rewards, and daily reminders to stay on track.
 - 
   ## screens
- (![Splash screen-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/13c7c708-cbd3-4672-a1e7-e4b1709db565)) (![Onboarding screen - 1 (1)-portrait (https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/c2b4a3f5-bfac-477f-8cb9-ac5bb43eb9c4))(![Home screen-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/9016f5dd-d186-4c6a-9a9c-689b585810da))(![Tracker-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/6290c8d6-bbe2-4361-8349-d4d197938f5f) )
+ #![Splash screen-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/13c7c708-cbd3-4672-a1e7-e4b1709db565)-#![Onboarding screen - 1 (1)-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/c2b4a3f5-bfac-477f-8cb9-ac5bb43eb9c4)-#![Home screen-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/9016f5dd-d186-4c6a-9a9c-689b585810da)-#![Tracker-portrait](https://github.com/AmrishChandrasekaran/Amrish-Design-repo/assets/104980922/6290c8d6-bbe2-4361-8349-d4d197938f5f) 
 
 ## Prototypes
 
